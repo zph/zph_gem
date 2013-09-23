@@ -5,7 +5,7 @@ require 'zph/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "zph"
-  spec.version       = Zph::VERSION
+  spec.version       = ZPH::VERSION
   spec.authors       = ["Zander Hill"]
   spec.email         = ["Zander@civet.ws"]
   spec.description   = %q{Convenience scripts for yours truly @ZPH}
